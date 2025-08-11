@@ -1,0 +1,1 @@
+print("Aurin Core is live!")
